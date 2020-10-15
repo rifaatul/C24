@@ -44,6 +44,8 @@
   /* Tambahkan CSS untuk menu-icon */
   .menu-icon{
     display:block;
+    visibility: visible;
+    position: absolute;
   }
   
   .top-wrapper h1 {
